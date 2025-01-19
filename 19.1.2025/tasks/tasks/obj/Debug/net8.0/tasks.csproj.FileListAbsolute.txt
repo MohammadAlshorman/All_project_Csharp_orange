@@ -1,0 +1,14 @@
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\obj\Debug\net8.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\obj\Debug\net8.0\tasks.AssemblyInfoInputs.cache
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\obj\Debug\net8.0\tasks.AssemblyInfo.cs
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\obj\Debug\net8.0\tasks.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\bin\Debug\net8.0\tasks.exe
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\bin\Debug\net8.0\tasks.deps.json
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\bin\Debug\net8.0\tasks.runtimeconfig.json
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\bin\Debug\net8.0\tasks.dll
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\bin\Debug\net8.0\tasks.pdb
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\obj\Debug\net8.0\tasks.dll
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\obj\Debug\net8.0\refint\tasks.dll
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\obj\Debug\net8.0\tasks.pdb
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\obj\Debug\net8.0\tasks.genruntimeconfig.cache
+C:\Users\Orange\Desktop\All_project_C#_orange\19.1.2025\tasks\tasks\obj\Debug\net8.0\ref\tasks.dll
